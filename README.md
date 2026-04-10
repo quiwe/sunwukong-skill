@@ -12,7 +12,7 @@
 
 ```bash
 # 克隆本仓库到 Claude Code 的 skills 目录
-git clone https://github.com/quiwe/sunwukong-perspective-skill.git ~/.claude/skills/sunwukong-perspective
+git clone https://github.com/quiwe/sunwukong-skill.git ~/.claude/skills/sunwukong-perspective
 ```
 
 或在 Claude Code 中使用 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 自行蒸馏。
@@ -98,7 +98,7 @@ git clone https://github.com/quiwe/sunwukong-perspective-skill.git ~/.claude/ski
 ## 目录结构
 
 ```
-sunwukong-perspective/
+sunwukong-skill/
 ├── SKILL.md                          # 核心Skill文件（Claude Code直接读取）
 └── references/
     └── research/                      # 调研资料
